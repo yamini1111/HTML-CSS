@@ -1,0 +1,76 @@
+# HTML-CSS
+#Websites
+b
+{
+	color:red;
+}
+img
+{
+	width:20%;
+	margin:0px 0px 5px 5px;
+}
+.bodystyles
+{
+	padding:5px;
+	text-align:justify;
+	margin:0;
+	/*border:10px solid;*/
+	background-color:#ffffff;
+}
+/*.header
+{
+	font-family:Comic Sans MS, cursive, sans-serif; 
+	color:white;
+	/*background-color:#f1f1f1;*/
+	/*padding:20px;
+	/*text-align:center;*/
+	/*font-size:300%;
+	text-shadow:1px 1px 2px black,0 0 25px ,0 0 25px #ff9800b8,0 0 5px #ff5722;
+	float:left;
+}*/
+
+.header img
+{
+	width:8%;
+}
+.topnav
+{
+	overflow:hidden;
+	background-color:#ff007b;
+}
+.topnav a
+{
+	float:left;
+	display:block;
+	color:white;
+	text-align:center;
+	padding:14px 16px;
+	text-decoration:none;
+	
+}
+.headings
+{  
+	font-size:200%;
+	color:#dc3838;
+}
+.heading
+{  
+	font-size:150%;
+	color:#dc3838;
+}
+.paragraph
+{
+	text-indent:50px;
+	font-size:18px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+.imagecaption
+{
+	font-family:Comic Sans MS;
+	font-size:18px;
+	color:#607d8b;
+}
+.header
+{
+	background-color:pink;
+}
